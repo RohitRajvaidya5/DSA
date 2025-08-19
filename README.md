@@ -1,1 +1,4 @@
-#DSA concepts, questions and answers
+# DSA 
+- Concepts
+- Questions
+- Answers
